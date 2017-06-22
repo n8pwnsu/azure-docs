@@ -70,7 +70,7 @@ If you are not familiar with this procedure, see [How to convert a binary certif
 2. On the **How would you like users to sign on to Zoom** page, select **Microsoft Azure AD Single Sign-On**, and then click **Next**.
    
    ![Configure single sign-on](./media/active-directory-saas-zoom-tutorial/IC784697.png "Configure single sign-on")
-3. On the **Configure App URL** page, in the **Zoom Sign In URL** textbox, type your URL using the following pattern "*http://company.zoom.us*", and then click **Next**.
+3. On the **Configure App URL** page, in the **Zoom Sign In URL** textbox, type your URL using the following pattern "*https://company.zoom.us*", and then click **Next**. Use the same URL as your Identifier, also in the pattern "*https://company.zoom.us*".
    
    ![Configure App URL](./media/active-directory-saas-zoom-tutorial/IC784698.png "Configure App URL")
 4. On the **Configure single sign-on at Zoom** page, click **Download certificate**, and then save the certificate file on your computer.
